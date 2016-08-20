@@ -55,7 +55,7 @@
 </head>
 <body>
     <b>
-        master:
+       edi systems:
     </b>
 <form id="form1" runat="server">
     <input id="btn" type="button" value="showgv" onclick="javascript: ShowPopup();"/>
