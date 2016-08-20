@@ -54,6 +54,9 @@
 
 </head>
 <body>
+    <b>
+        master:
+    </b>
 <form id="form1" runat="server">
     <input id="btn" type="button" value="showgv" onclick="javascript: ShowPopup();"/>
 
