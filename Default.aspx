@@ -55,9 +55,9 @@
 </head>
 <body>
     <b>
-        master:
+        EdiSystems:
     </b>
-<form id="form1" runat="server">
+    <form id="form1" runat="server">
     <input id="btn" type="button" value="showgv" onclick="javascript: ShowPopup();"/>
 
     <div id="dialog" style="display: none">
