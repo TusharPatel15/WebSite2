@@ -20,7 +20,7 @@
     <table border="0" cellpadding="0" cellspacing="0">
         <tr>
             <td>
-                <b>First Name:</b>
+                <b>EDI Systems:</b>
             </td>
             <td>
                 <asp:TextBox ID="txtFName" runat="server" Text="" />
